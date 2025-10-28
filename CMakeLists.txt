@@ -1,6 +1,6 @@
 # 3.5 is actually available almost everywhere.
 # 3.30 as the upper policy limit avoids CMake deprecation warnings.
-cmake_minimum_required(VERSION 3.5...3.30)
+cmake_minimum_required(VERSION 3.5)
 
 # enable MSVC_RUNTIME_LIBRARY target property
 # see https://cmake.org/cmake/help/latest/policy/CMP0091.html
